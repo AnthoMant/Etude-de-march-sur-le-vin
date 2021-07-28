@@ -19,3 +19,6 @@ Avec le tableau de bord que tu lui as fourni, le client a une idée précise de 
 
 Qualité esthétique du tableau de bord
 Essaye de garder un oeil critique et visuel sur ton tableau de bord. La forme compte autant que le fond pour le client qui n'est pas data analyst. Pense donc à "vendre" ton analyse. Par exemple, avec des couleurs s'inspirant du milieu vinicole, des dataviz originales, etc...
+
+
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2I1OGVhMzktNDk5Yy00MmU0LTllZDUtY2Q5YjQ4MzNiMmJiIiwidCI6IjE0NTJmNzE3LTQ5MTItNDE1Yi1hZjg1LWQ3Njc5YWM0MWQwNiJ9&pageName=ReportSection3a006c86edb6b406068e" frameborder="0" allowFullScreen="true"></iframe>
