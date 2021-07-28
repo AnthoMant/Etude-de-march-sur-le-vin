@@ -1,5 +1,7 @@
 # Etude de marché sur le vin
 
+## Lien vers le dashboard : https://community.powerbi.com/t5/Data-Stories-Gallery/Etude-de-march%C3%A9-Le-Domaine-de-la-Croix/m-p/1975661#M5543
+
 Le client, le Domaine des Croix, cherche à définir le prix de ses bouteilles de vin pour le marché américain. Il a récupéré un jeu de données de 130k bouteilles de vin, avec les cépages, les pays et région de production, les millésimes (c'est-à-dire les années de production), ainsi que des notes ("points") et descriptifs d'oenologues (les spécialistes du vin), et le prix de toutes ces bouteilles sur le marché américain.
 
 L'objectif sera de faire une présentation de 5 minutes de l'analyse du marché, et du prix que tu conseilles de fixer pour les vins du client. Le client n'est pas data analyst, mais souhaiterait comprendre la démarche. Il faudra donc s'attacher à expliquer comment les prix ont été fixés, sans rentrer dans un trop grand niveau technique, autrement dit : vulgariser.
