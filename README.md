@@ -1,0 +1,2 @@
+# Etude-de-march-sur-le-vin
+Le client, le Domaine des Croix, cherche à définir le prix de ses bouteilles de vin pour le marché américain. Il a récupéré un jeu de données de 130k bouteilles de vin, avec les cépages, les pays et région de production, les millésimes (c'est-à-dire les années de production), ainsi que des notes ("points") et descriptifs d'oenologues (les spécialistes du vin), et le prix de toutes ces bouteilles sur le marché américain.
